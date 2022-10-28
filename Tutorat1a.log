@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.1)  28 OCT 2022 15:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.10.1)  28 OCT 2022 15:50
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1435,7 +1435,7 @@ Package caption Info: Hyperref support is turned off
 (caption)             because hyperref has stopped early.
 )
 Package caption Info: Option `declare type' requires the `newfloat' package on 
-input line 125.
+input line 124.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/newfloat/newfloat.sty
 Package: newfloat 2019/09/02 v1.1l Defining new floating environments (AR)
@@ -1446,9 +1446,9 @@ Package newfloat Info: \@chapter = macro:[#1]#2->\NR@gettitle {#1}\NR@chapter [
 Package newfloat Info: \Hy@org@chapter = undefined.
 )
 Package newfloat Info: New float `codecaption' with options `' on input line 12
-5.
+4.
 \c@codecaption=\count548
-Package newfloat Info: float type `codecaption'=8 on input line 125.
+Package newfloat Info: float type `codecaption'=8 on input line 124.
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/xfakebold/xfakebold.sty
 Package: xfakebold 2020/06/24 v0.08 using bold characters
@@ -1914,7 +1914,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  (./content_Tutorat1/Aufgabe1.tex
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 1.
+Package pdftex.def Info: ./figures/background.png  used on input line 6.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -1941,7 +1941,7 @@ Package pdfrender Info: New color stack `LineWidth' = 3 on input line 3.
 )
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 7.
+Package pdftex.def Info: ./figures/background.png  used on input line 12.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
