@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  14 NOV 2022 21:43
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  15 NOV 2022 07:08
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2079,7 +2079,7 @@ Package logreq Info: Writing requests to 'Tutorat2a.run.xml'.
 Here is how much of TeX's memory you used:
  49201 strings out of 475066
  1060791 string characters out of 5780777
- 2001760 words of memory out of 5000000
+ 2001759 words of memory out of 5000000
  69682 multiletter control sequences out of 15000+600000
  479734 words of font info for 83 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -2098,7 +2098,7 @@ lic/amsfonts/cm/cmssi9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmsy8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/sym
 bols/msam10.pfb>
-Output written on Tutorat2a.pdf (11 pages, 713796 bytes).
+Output written on Tutorat2a.pdf (11 pages, 713813 bytes).
 PDF statistics:
  190 PDF objects out of 1000 (max. 8388607)
  128 compressed objects within 2 object streams
