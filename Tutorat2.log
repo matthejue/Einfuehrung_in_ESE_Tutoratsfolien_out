@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  15 NOV 2022 07:08
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  15 NOV 2022 10:05
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1946,7 +1946,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [5
 
 ]
-<figures/task_instance.png, id=73, 475.7775pt x 212.29312pt>
+<figures/task_instance.png, id=72, 475.7775pt x 212.29312pt>
 File: figures/task_instance.png Graphic file (type png)
 <use figures/task_instance.png>
 Package pdftex.def Info: figures/task_instance.png  used on input line 35.
@@ -1996,7 +1996,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [8
 
 ]
-<figures/schedule_example.png, id=97, 492.33937pt x 261.97874pt>
+<figures/schedule_example.png, id=96, 492.33937pt x 261.97874pt>
 File: figures/schedule_example.png Graphic file (type png)
 <use figures/schedule_example.png>
 Package pdftex.def Info: figures/schedule_example.png  used on input line 82.
@@ -2075,11 +2075,11 @@ Package logreq Info: Writing requests to 'Tutorat2.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 49201 strings out of 475066
- 1060750 string characters out of 5780777
- 2001743 words of memory out of 5000000
- 69682 multiletter control sequences out of 15000+600000
- 479734 words of font info for 83 fonts, out of 8000000 for 9000
+ 49196 strings out of 475066
+ 1060789 string characters out of 5780777
+ 2001744 words of memory out of 5000000
+ 69686 multiletter control sequences out of 15000+600000
+ 479204 words of font info for 78 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,17n,125p,1005b,2071s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></o
@@ -2089,17 +2089,16 @@ texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></opt/texlive/texdi
 r/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></opt/texlive/texdir/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></opt/texlive/texdir/texmf-di
 st/fonts/type1/public/amsfonts/cm/cmss8.pfb></opt/texlive/texdir/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmssbx10.pfb></opt/texlive/texdir/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmssi10.pfb></opt/texlive/texdir/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmssi8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/pub
-lic/amsfonts/cm/cmssi9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfon
-ts/cm/cmsy8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/sym
-bols/msam10.pfb>
-Output written on Tutorat2.pdf (11 pages, 713813 bytes).
+ts/type1/public/amsfonts/cm/cmssi10.pfb></opt/texlive/texdir/texmf-dist/fonts/t
+ype1/public/amsfonts/cm/cmssi8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmssi9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmsy8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/
+symbols/msam10.pfb>
+Output written on Tutorat2.pdf (11 pages, 703549 bytes).
 PDF statistics:
- 190 PDF objects out of 1000 (max. 8388607)
- 128 compressed objects within 2 object streams
+ 185 PDF objects out of 1000 (max. 8388607)
+ 125 compressed objects within 2 object streams
  26 named destinations out of 1000 (max. 500000)
- 20582 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 18534 words of extra memory for PDF output out of 20736 (max. 10000000)
 
