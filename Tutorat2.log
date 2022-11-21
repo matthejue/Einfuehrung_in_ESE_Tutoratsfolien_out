@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  21 NOV 2022 08:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  21 NOV 2022 19:06
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2405,9 +2405,6 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 
 ]
-Overfull \vbox (14.86327pt too high) detected at line 54
- []
-
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
 Package pdftex.def Info: ./figures/background.png  used on input line 54.
@@ -2424,6 +2421,9 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 
 ]
+Overfull \vbox (14.48247pt too high) detected at line 54
+ []
+
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
 Package pdftex.def Info: ./figures/background.png  used on input line 54.
@@ -2437,6 +2437,22 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  []
 
 [23
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 54.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[24
 
 
 ])
@@ -2455,13 +2471,13 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[24
+[25
 
 
 
 
 ]
-<./figures/task2_schedule.png, id=324, 648.92438pt x 161.10187pt>
+<./figures/task2_schedule.png, id=335, 648.92438pt x 161.10187pt>
 File: ./figures/task2_schedule.png Graphic file (type png)
 <use ./figures/task2_schedule.png>
 Package pdftex.def Info: ./figures/task2_schedule.png  used on input line 31.
@@ -2488,7 +2504,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[25
+[26
 
 ]
 File: ./figures/background.png Graphic file (type png)
@@ -2503,7 +2519,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[26
+[27
 
 
  <./figures/task2_schedule.png (PNG copy)>])
@@ -2523,13 +2539,13 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[27
+[28
 
 
 
 
 ]
-<./figures/task3_schedule.png, id=358, 632.3625pt x 161.10187pt>
+<./figures/task3_schedule.png, id=368, 632.3625pt x 161.10187pt>
 File: ./figures/task3_schedule.png Graphic file (type png)
 <use ./figures/task3_schedule.png>
 Package pdftex.def Info: ./figures/task3_schedule.png  used on input line 40.
@@ -2546,23 +2562,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[28
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 40.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
 [29
-
 
 ]
 File: ./figures/background.png Graphic file (type png)
@@ -2578,6 +2578,22 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  []
 
 [30
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 40.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[31
 
 
  <./figures/task3_schedule.png (PNG copy)>])
@@ -2604,10 +2620,10 @@ Package logreq Info: Writing requests to 'Tutorat2.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51282 strings out of 475066
- 1116378 string characters out of 5780777
- 2098567 words of memory out of 5000000
- 71661 multiletter control sequences out of 15000+600000
+ 51286 strings out of 475066
+ 1116413 string characters out of 5780777
+ 2099567 words of memory out of 5000000
+ 71663 multiletter control sequences out of 15000+600000
  485810 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,17n,125p,1005b,2071s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -2627,10 +2643,10 @@ m/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y7.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb
 ></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></op
 t/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
-Output written on Tutorat2.pdf (30 pages, 886953 bytes).
+Output written on Tutorat2.pdf (31 pages, 888040 bytes).
 PDF statistics:
- 482 PDF objects out of 1000 (max. 8388607)
- 380 compressed objects within 4 object streams
- 68 named destinations out of 1000 (max. 500000)
+ 493 PDF objects out of 1000 (max. 8388607)
+ 390 compressed objects within 4 object streams
+ 70 named destinations out of 1000 (max. 500000)
  31913 words of extra memory for PDF output out of 35830 (max. 10000000)
 
