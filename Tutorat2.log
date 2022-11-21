@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  15 NOV 2022 10:05
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.11.1)  21 NOV 2022 08:41
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1603,14 +1603,136 @@ Package: xargs 2008/03/22 v1.1  extended macro definitions  (mpg)
 \xargs@toksa=\toks60
 \xargs@toksb=\toks61
 )
+(/opt/texlive/texdir/texmf-dist/tex/latex/tikzsymbols/tikzsymbols.sty
+Package: tikzsymbols 2021/12/14 v4.12a Some symbols created using tikz and LaTe
+X3.
+
+(/opt/texlive/texdir/texmf-dist/tex/latex/tools/xspace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
+kzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code
+.tex
+File: pgflibraryarrows.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+\arrowsize=\dimen420
+))
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
+kzlibrarydecorations.pathmorphing.code.tex
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
+kzlibrarydecorations.code.tex
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.co
+de.tex
+\pgfdecoratedcompleteddistance=\dimen421
+\pgfdecoratedremainingdistance=\dimen422
+\pgfdecoratedinputsegmentcompleteddistance=\dimen423
+\pgfdecoratedinputsegmentremainingdistance=\dimen424
+\pgf@decorate@distancetomove=\dimen425
+\pgf@decorate@repeatstate=\count567
+\pgfdecorationsegmentamplitude=\dimen426
+\pgfdecorationsegmentlength=\dimen427
+)
+\tikz@lib@dec@box=\box113
+)
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrar
+ydecorations.pathmorphing.code.tex))
+(/opt/texlive/texdir/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/ti
+kzlibrarytrees.code.tex
+File: tikzlibrarytrees.code.tex 2021/05/15 v3.1.9a (3.1.9a)
+)
+\l__tikzsymbols_Moai_thickness_dim=\dimen428
+\l__tikzsymbols_Kochtopf_nr_arguments_int=\count568
+\l__tikzsymbols_Bratpfanne_nr_arguments_int=\count569
+\l__tikzsymbols_Schneebesen_nr_arguments_int=\count570
+\l__tikzsymbols_Sieb_nr_arguments_int=\count571
+\l__tikzsymbols_Purierstab_nr_arguments_int=\count572
+\l__tikzsymbols_Dreizack_nr_arguments_int=\count573
+\l__tikzsymbols_Backblech_nr_arguments_int=\count574
+\l__tikzsymbols_Ofen_nr_arguments_int=\count575
+\l__tikzsymbols_Pfanne_nr_arguments_int=\count576
+\l__tikzsymbols_Herd_nr_arguments_int=\count577
+\l__tikzsymbols_Saftpresse_nr_arguments_int=\count578
+\l__tikzsymbols_Schussel_nr_arguments_int=\count579
+\l__tikzsymbols_Schaler_nr_arguments_int=\count580
+\l__tikzsymbols_Reibe_nr_arguments_int=\count581
+\l__tikzsymbols_Flasche_nr_arguments_int=\count582
+\l__tikzsymbols_Nudelholz_nr_arguments_int=\count583
+\l__tikzsymbols_Knoblauchpresse_nr_arguments_int=\count584
+\l__tikzsymbols_Sadey_nr_arguments_int=\count585
+\l__tikzsymbols_dSadey_nr_arguments_int=\count586
+\l__tikzsymbols_Changey_nr_arguments_int=\count587
+\l__tikzsymbols_dChangey_nr_arguments_int=\count588
+\l__tikzsymbols_cChangey_nr_arguments_int=\count589
+\l__tikzsymbols_dcChangey_nr_arguments_int=\count590
+\l__tikzsymbols_Annoey_nr_arguments_int=\count591
+\l__tikzsymbols_dAnnoey_nr_arguments_int=\count592
+\l__tikzsymbols_Smiley_nr_arguments_int=\count593
+\l__tikzsymbols_dSmiley_nr_arguments_int=\count594
+\l__tikzsymbols_Laughey_nr_arguments_int=\count595
+\l__tikzsymbols_dLaughey_nr_arguments_int=\count596
+\l__tikzsymbols_Neutrey_nr_arguments_int=\count597
+\l__tikzsymbols_dNeutrey_nr_arguments_int=\count598
+\l__tikzsymbols_Winkey_nr_arguments_int=\count599
+\l__tikzsymbols_oldWinkey_nr_arguments_int=\count600
+\l__tikzsymbols_dWinkey_nr_arguments_int=\count601
+\l__tikzsymbols_olddWinkey_nr_arguments_int=\count602
+\l__tikzsymbols_Sey_nr_arguments_int=\count603
+\l__tikzsymbols_dSey_nr_arguments_int=\count604
+\l__tikzsymbols_Xey_nr_arguments_int=\count605
+\l__tikzsymbols_dXey_nr_arguments_int=\count606
+\l__tikzsymbols_Innocey_nr_arguments_int=\count607
+\l__tikzsymbols_wInnocey_nr_arguments_int=\count608
+\l__tikzsymbols_dInnocey_nr_arguments_int=\count609
+\l__tikzsymbols_Cooley_nr_arguments_int=\count610
+\l__tikzsymbols_dCooley_nr_arguments_int=\count611
+\l__tikzsymbols_Tongey_nr_arguments_int=\count612
+\l__tikzsymbols_dTongey_nr_arguments_int=\count613
+\l__tikzsymbols_Nursey_nr_arguments_int=\count614
+\l__tikzsymbols_dNursey_nr_arguments_int=\count615
+\l__tikzsymbols_Vomey_nr_arguments_int=\count616
+\l__tikzsymbols_dVomey_nr_arguments_int=\count617
+\l__tikzsymbols_Walley_nr_arguments_int=\count618
+\l__tikzsymbols_rWalley_nr_arguments_int=\count619
+\l__tikzsymbols_dWalley_nr_arguments_int=\count620
+\l__tikzsymbols_drWalley_nr_arguments_int=\count621
+\l__tikzsymbols_Cat_nr_arguments_int=\count622
+\l__tikzsymbols_SchrodingersCat_nr_arguments_int=\count623
+\l__tikzsymbols_Ninja_nr_arguments_int=\count624
+\l__tikzsymbols_dNinja_nr_arguments_int=\count625
+\l__tikzsymbols_Sleepey_nr_arguments_int=\count626
+\l__tikzsymbols_dSleepey_nr_arguments_int=\count627
+\l__tikzsymbols_Maskey_nr_arguments_int=\count628
+\l__tikzsymbols_NiceReapey_nr_arguments_int=\count629
+\l__tikzsymbols_Strichmaxerl_nr_arguments_int=\count630
+\l__tikzsymbols_Person_nr_arguments_int=\count631
+\l__tikzsymbols_Heart_nr_arguments_int=\count632
+\l__tikzsymbols_dHeart_nr_arguments_int=\count633
+\l__tikzsymbols_HeartBroken_nr_arguments_int=\count634
+\l__tikzsymbols_Candle_nr_arguments_int=\count635
+\l__tikzsymbols_Fire_nr_arguments_int=\count636
+\l__tikzsymbols_Coffeecup_nr_arguments_int=\count637
+\l__tikzsymbols_Chair_nr_arguments_int=\count638
+\l__tikzsymbols_Bed_nr_arguments_int=\count639
+\l__tikzsymbols_Tribar_nr_arguments_int=\count640
+\l__tikzsymbols_Moai_nr_arguments_int=\count641
+\l__tikzsymbols_Snowman_nr_arguments_int=\count642
+\l__tikzsymbols_BasicTree_nr_arguments_int=\count643
+\l__tikzsymbols_WorstTree_nr_arguments_int=\count644
+\l__tikzsymbols_Springtree_nr_arguments_int=\count645
+\l__tikzsymbols_Summertree_nr_arguments_int=\count646
+\l__tikzsymbols_Autumntree_nr_arguments_int=\count647
+\l__tikzsymbols_Wintertree_nr_arguments_int=\count648
+)
 (/opt/texlive/texdir/texmf-dist/tex/latex/csquotes/csquotes.sty
 Package: csquotes 2022-09-14 v5.2n context-sensitive quotations (JAW)
-\csq@reset=\count567
-\csq@gtype=\count568
-\csq@glevel=\count569
-\csq@qlevel=\count570
-\csq@maxlvl=\count571
-\csq@tshold=\count572
+\csq@reset=\count649
+\csq@gtype=\count650
+\csq@glevel=\count651
+\csq@qlevel=\count652
+\csq@maxlvl=\count653
+\csq@tshold=\count654
 \csq@ltx@everypar=\toks62
 
 (/opt/texlive/texdir/texmf-dist/tex/latex/csquotes/csquotes.def
@@ -1625,480 +1747,24 @@ File: csquotes.cfg
 (./content_Tutorat1/Design.tex
 (/opt/texlive/texdir/texmf-dist/tex/latex/beamer/beamerouterthemeinfolines.sty)
 ) (./content_Tutorat1/Deklarationen.tex
-\c@task=\count573
-\c@customtheorem=\count574
-\c@subcustomtheorem=\count575
+\c@task=\count655
+\c@customtheorem=\count656
+\c@subcustomtheorem=\count657
 )
-runsystem(which pygmentize && touch Tutorat2.aex)...executed.
-
-runsystem(rm Tutorat2.aex)...executed.
-
-Package csquotes Info: Checking for multilingual support...
-Package csquotes Info: ... found 'babel' package.
-Package csquotes Info: Adjusting default style.
-Package csquotes Info: Redefining alias 'default' -> 'english'.
- (./Tutorat2.aux
-(./content_Tutorat1/Aufgabe1.aux) (./content_Tutorat1/Aufgabe2.aux)
-(./content_Tutorat1/Aufgabe3.aux) (./content_Tutorat1/Bonus.aux))
-\openout1 = `Tutorat2.aux'.
-
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 15.
-LaTeX Font Info:    ... okay on input line 15.
-
-*geometry* driver: auto-detecting
-*geometry* detected driver: pdftex
-*geometry* verbose mode - [ preamble ] result:
-* driver: pdftex
-* paper: custom
-* layout: <same size as paper>
-* layoutoffset:(h,v)=(0.0pt,0.0pt)
-* modes: includehead includefoot 
-* h-part:(L,W,R)=(10.95003pt, 390.6649pt, 53.62915pt)
-* v-part:(T,H,B)=(0.0pt, 256.0748pt, 0.0pt)
-* \paperwidth=455.24408pt
-* \paperheight=256.0748pt
-* \textwidth=390.6649pt
-* \textheight=227.62207pt
-* \oddsidemargin=-61.31996pt
-* \evensidemargin=-61.31996pt
-* \topmargin=-72.26999pt
-* \headheight=14.22636pt
-* \headsep=0.0pt
-* \topskip=11.0pt
-* \footskip=14.22636pt
-* \marginparwidth=4.0pt
-* \marginparsep=10.0pt
-* \columnsep=10.0pt
-* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
-* \hoffset=0.0pt
-* \voffset=0.0pt
-* \mag=1000
-* \@twocolumnfalse
-* \@twosidefalse
-* \@mparswitchfalse
-* \@reversemarginfalse
-* (1in=72.27pt=25.4mm, 1cm=28.453pt)
-
-(/opt/texlive/texdir/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
-[Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count576
-\scratchdimen=\dimen420
-\scratchbox=\box113
-\nofMPsegments=\count577
-\nofMParguments=\count578
-\everyMPshowfont=\toks63
-\MPscratchCnt=\count579
-\MPscratchDim=\dimen421
-\MPnumerator=\count580
-\makeMPintoPDFobject=\count581
-\everyMPtoPDFconversion=\toks64
-) (/opt/texlive/texdir/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
-Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
-Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
-85.
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
-e
-))
-Package hyperref Info: Link coloring ON on input line 15.
-
-(./Tutorat2.out) (./Tutorat2.out)
-\@outlinefile=\write8
-\openout8 = `Tutorat2.out'.
-
-LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 15.
-LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 15.
-\symnumbers=\mathgroup6
-\sympureletters=\mathgroup7
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmr/m/n on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> OT1/cmss/m/it on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> OT1/cmss/m/it on input line 15.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 15.
-LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 15.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmr/b/n on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmss/b/n --> OT1/cmss/b/n on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/b/n on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmss/m/it --> OT1/cmss/b/it on input line 15.
-LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/b/n on input line 15.
-LaTeX Font Info:    Redeclaring symbol font `pureletters' on input line 15.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `normal'
-(Font)                  OT1/cmss/m/it --> OT1/mathkerncmss/m/sl on input line 1
-5.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/cmss/b/it --> OT1/mathkerncmss/m/sl on input line 1
-5.
-LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/mathkerncmss/m/sl --> OT1/mathkerncmss/bx/sl on inp
-ut line 15.
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/translator/translator-basic-dictionar
-y-English.dict
-Dictionary: translator-basic-dictionary, Language: English 
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/translator/translator-bibliography-di
-ctionary-English.dict
-Dictionary: translator-bibliography-dictionary, Language: English 
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/translator/translator-environment-dic
-tionary-English.dict
-Dictionary: translator-environment-dictionary, Language: English 
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/translator/translator-months-dictiona
-ry-English.dict
-Dictionary: translator-months-dictionary, Language: English 
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/translator/translator-numbers-diction
-ary-English.dict
-Dictionary: translator-numbers-dictionary, Language: English 
-)
-(/opt/texlive/texdir/texmf-dist/tex/latex/translator/translator-theorem-diction
-ary-English.dict
-Dictionary: translator-theorem-dictionary, Language: English 
-)
-Package biblatex Info: Trying to load language 'english'...
-Package biblatex Info: ... file 'english.lbx' found.
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/biblatex/lbx/english.lbx
-File: english.lbx 2022/07/12 v3.18b biblatex localization (PK/MW)
-)
-Package biblatex Info: Input encoding 'utf8' detected.
-Package biblatex Info: Automatic encoding selection.
-(biblatex)             Assuming data encoding 'utf8'.
-\openout7 = `Tutorat2.bcf'.
-
-Package biblatex Info: Trying to load bibliographic data...
-Package biblatex Info: ... file 'Tutorat2.bbl' found.
-
-(./Tutorat2.bbl)
-Package biblatex Info: Reference section=0 on input line 15.
-Package biblatex Info: Reference segment=0 on input line 15.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 15.
-
- (/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsa.fd
-File: umsa.fd 2013/01/14 v3.01 AMS symbols A
-)
-LaTeX Font Info:    Trying to load font information for U+msb on input line 15.
-
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/amsfonts/umsb.fd
-File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-)
-LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 15.
-
-(/opt/texlive/texdir/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
-File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
-thkerncmss.
-)
-LaTeX Info: Redefining \microtypecontext on input line 15.
-Package microtype Info: Applying patch `item' on input line 15.
-Package microtype Info: Applying patch `toc' on input line 15.
-Package microtype Info: Applying patch `eqnum' on input line 15.
-Package microtype Info: Applying patch `footnote' on input line 15.
-Package microtype Info: Generating PDF output.
-Package microtype Info: Character protrusion enabled (level 2).
-Package microtype Info: Using default protrusion set `alltext'.
-Package microtype Info: Automatic font expansion enabled (level 2),
-(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
-Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 15.
-Package microtype Info: No adjustment of tracking.
-Package microtype Info: No adjustment of interword spacing.
-Package microtype Info: No adjustment of character kerning.
-Package microtype Info: Loading generic protrusion settings for font family
-(microtype)             `cmss' (encoding: OT1).
-(microtype)             For optimal results, create family-specific settings.
-(microtype)             See the microtype manual for details.
-Package caption Info: Begin \AtBeginDocument code.
-Package caption Info: End \AtBeginDocument code.
-Package newfloat Info: Trying Plan B...
-Package newfloat Info: `float' package detected.
-
-(./Tutorat2.nav)
-Overfull \hbox (32.11804pt too wide) in paragraph at lines 15--15
-[][]  
- []
-
-
-Overfull \hbox (30.0pt too wide) in paragraph at lines 15--15
-[][][][]  
- []
-
-<./figures/background.png, id=30, 369.38pt x 1606.0pt>
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 21.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-[1
-
-{/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures/b
-ackground.png>] (./Tutorat2.toc)
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 26.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[2
-
-]
-\openout2 = `./content_Tutorat1/Aufgabe1.aux'.
-
- (./content_Tutorat1/Aufgabe1.tex
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 3.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[3
-
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 14.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[4
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 26.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[5
-
-]
-<figures/task_instance.png, id=72, 475.7775pt x 212.29312pt>
-File: figures/task_instance.png Graphic file (type png)
-<use figures/task_instance.png>
-Package pdftex.def Info: figures/task_instance.png  used on input line 35.
-(pdftex.def)             Requested size: 237.88815pt x 106.1463pt.
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 35.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[6
-
- <./figures/task_instance.PNG>]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 43.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[7
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 60.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[8
-
-]
-<figures/schedule_example.png, id=96, 492.33937pt x 261.97874pt>
-File: figures/schedule_example.png Graphic file (type png)
-<use figures/schedule_example.png>
-Package pdftex.def Info: figures/schedule_example.png  used on input line 82.
-(pdftex.def)             Requested size: 123.08453pt x 65.49452pt.
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 82.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[9
-
- <./figures/schedule_example.PNG>]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 92.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[10
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 96.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[11
-
-])
-\openout2 = `./content_Tutorat1/Aufgabe2.aux'.
-
- (./content_Tutorat1/Aufgabe2.tex)
-\openout2 = `./content_Tutorat1/Aufgabe3.aux'.
-
- (./content_Tutorat1/Aufgabe3.tex)
-\openout2 = `./content_Tutorat1/Bonus.aux'.
-
-
-(./content_Tutorat1/Bonus.tex)
-\tf@nav=\write9
-\openout9 = `Tutorat2.nav'.
-
-\tf@toc=\write10
-\openout10 = `Tutorat2.toc'.
-
-\tf@snm=\write11
-\openout11 = `Tutorat2.snm'.
-
- (./Tutorat2.aux (./content_Tutorat1/Aufgabe1.aux) (./content_Tutorat1/Aufgabe2
-.aux) (./content_Tutorat1/Aufgabe3.aux)
-(./content_Tutorat1/Bonus.aux))
-Package rerunfilecheck Info: File `Tutorat2.out' has not changed.
-(rerunfilecheck)             Checksum: 6EEDB3A696402AC7E5889E3AC695A2DA;129.
-Package logreq Info: Writing requests to 'Tutorat2.run.xml'.
-\openout1 = `Tutorat2.run.xml'.
-
- ) 
+Runaway argument?
+{ ./content_Tutorat1/Aufgabe1, 
+! Paragraph ended before \includeonly was complete.
+<to be read again> 
+                   \par 
+l.10 
+      
 Here is how much of TeX's memory you used:
- 49196 strings out of 475066
- 1060789 string characters out of 5780777
- 2001744 words of memory out of 5000000
- 69686 multiletter control sequences out of 15000+600000
- 479204 words of font info for 78 fonts, out of 8000000 for 9000
+ 48330 strings out of 475066
+ 1053493 string characters out of 5780777
+ 1770787 words of memory out of 5000000
+ 68983 multiletter control sequences out of 15000+600000
+ 469864 words of font info for 30 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 133i,17n,125p,1005b,2071s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></o
-pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/te
-xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/texlive/
-texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></opt/texlive/texdi
-r/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></opt/texlive/texdir/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></opt/texlive/texdir/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmss8.pfb></opt/texlive/texdir/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmssi10.pfb></opt/texlive/texdir/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmssi8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmssi9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/
-symbols/msam10.pfb>
-Output written on Tutorat2.pdf (11 pages, 703549 bytes).
-PDF statistics:
- 185 PDF objects out of 1000 (max. 8388607)
- 125 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
- 18534 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 133i,0n,125p,590b,447s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
+!  ==> Fatal error occurred, no output PDF file produced!
