@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  6 DEC 2022 11:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  6 DEC 2022 14:03
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2911,11 +2911,11 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  <./figures/edf-star-schedule-2.PNG>]
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 164.
+Package pdftex.def Info: ./figures/anote.png  used on input line 171.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 164.
+Package pdftex.def Info: ./figures/background.png  used on input line 171.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2930,19 +2930,19 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 185.
+Package pdftex.def Info: ./figures/anote.png  used on input line 192.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 185.
+Package pdftex.def Info: ./figures/anote.png  used on input line 192.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 185.
+Package pdftex.def Info: ./figures/anote.png  used on input line 192.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 185.
+Package pdftex.def Info: ./figures/background.png  used on input line 192.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2957,7 +2957,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 185.
+Package pdftex.def Info: ./figures/background.png  used on input line 192.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3276,7 +3276,7 @@ cm/cmsy8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cms
 y9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
 b></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pf
 b>
-Output written on Tutorat3.pdf (59 pages, 1357870 bytes).
+Output written on Tutorat3.pdf (59 pages, 1357901 bytes).
 PDF statistics:
  1251 PDF objects out of 1440 (max. 8388607)
  935 compressed objects within 10 object streams
