@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  6 DEC 2022 14:03
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2022.12.1)  19 DEC 2022 16:58
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -1761,7 +1761,8 @@ Package csquotes Info: Adjusting default style.
 Package csquotes Info: Redefining alias 'default' -> 'english'.
  (./Tutorat4a.aux
 (./content_Tutorat1/Aufgabe1.aux) (./content_Tutorat1/Aufgabe2.aux)
-(./content_Tutorat1/Aufgabe3.aux) (./content_Tutorat1/Bonus.aux))
+(./content_Tutorat1/Aufgabe3.aux) (./content_Tutorat1/Appendix.aux)
+(./content_Tutorat1/Bonus.aux))
 \openout1 = `Tutorat4a.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
@@ -1991,7 +1992,7 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 16--16
 [][][][]  
  []
 
-<./figures/background.png, id=58, 369.38pt x 1606.0pt>
+<./figures/background.png, id=68, 369.38pt x 1606.0pt>
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
 Package pdftex.def Info: ./figures/background.png  used on input line 22.
@@ -2004,6 +2005,10 @@ Overfull \vbox (15.31702pt too high) has occurred while \output is active []
 
 {/opt/texlive/texdir/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./figures/b
 ackground.png>] (./Tutorat4a.toc)
+
+Class beamer Warning: Frame text is shrunk by a factor of 14.15558 percent inst
+ead of 10 percent on input line 27.
+
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
 Package pdftex.def Info: ./figures/background.png  used on input line 27.
@@ -2021,7 +2026,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 30.
+Package pdftex.def Info: ./figures/background.png  used on input line 32.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2041,7 +2046,7 @@ Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `cmtt' (encoding: OT1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
-<./figures/feedback.png, id=99, 596.98032pt x 345.54094pt>
+<./figures/feedback.png, id=112, 596.98032pt x 345.54094pt>
 File: ./figures/feedback.png Graphic file (type png)
 <use ./figures/feedback.png>
 Package pdftex.def Info: ./figures/feedback.png  used on input line 6.
@@ -2088,16 +2093,33 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [5
 
 ]
-<./figures/overview_real_time_scheduling.png, id=125, 532.23843pt x 171.64125pt
->
-File: ./figures/overview_real_time_scheduling.png Graphic file (type png)
-<use ./figures/overview_real_time_scheduling.png>
-Package pdftex.def Info: ./figures/overview_real_time_scheduling.png  used on i
-nput line 55.
-(pdftex.def)             Requested size: 390.6649pt x 125.98848pt.
+<./figures/aperiodic_task_scheduling.png, id=140, 496.10344pt x 579.66562pt>
+File: ./figures/aperiodic_task_scheduling.png Graphic file (type png)
+<use ./figures/aperiodic_task_scheduling.png>
+Package pdftex.def Info: ./figures/aperiodic_task_scheduling.png  used on input
+ line 62.
+(pdftex.def)             Requested size: 153.41197pt x 179.25157pt.
+<./figures/periodic_task_scheduling.png, id=141, 374.90062pt x 634.62094pt>
+File: ./figures/periodic_task_scheduling.png Graphic file (type png)
+<use ./figures/periodic_task_scheduling.png>
+Package pdftex.def Info: ./figures/periodic_task_scheduling.png  used on input 
+line 62.
+(pdftex.def)             Requested size: 105.89246pt x 179.25157pt.
+<./figures/important_parameters.png, id=142, 334.24875pt x 617.30624pt>
+File: ./figures/important_parameters.png Graphic file (type png)
+<use ./figures/important_parameters.png>
+Package pdftex.def Info: ./figures/important_parameters.png  used on input line
+ 62.
+(pdftex.def)             Requested size: 97.05716pt x 179.25157pt.
+<./figures/important_formulas.png, id=143, 416.30531pt x 613.54219pt>
+File: ./figures/important_formulas.png Graphic file (type png)
+<use ./figures/important_formulas.png>
+Package pdftex.def Info: ./figures/important_formulas.png  used on input line 6
+2.
+(pdftex.def)             Requested size: 121.62747pt x 179.25157pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 55.
+Package pdftex.def Info: ./figures/background.png  used on input line 62.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2109,7 +2131,80 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [6
 
- <./figures/overview_real_time_scheduling.png>]
+ <./figures/aperiodic_task_scheduling.png (PNG copy)>]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 62.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[7
+
+
+ <./figures/periodic_task_scheduling.png (PNG copy)>]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 62.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[8
+
+
+ <./figures/important_parameters.png (PNG copy)>]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 62.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[9
+
+
+ <./figures/important_formulas.png (PNG copy)>]
+\openout2 = `./content_Tutorat1/Aufgabe1.aux'.
+
+
+(./content_Tutorat1/Aufgabe1.tex
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 9.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[10
+
+
+]
+<./figures/anote.png, id=205, 210.24pt x 216.81pt>
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 43.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 \g__nicematrix_max_cell_width_dim=\dimen431
 \c@iRow=\count664
 \c@jCol=\count665
@@ -2134,74 +2229,23 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 \l__nicematrix_initial_j_int=\count670
 \l__nicematrix_final_i_int=\count671
 \l__nicematrix_final_j_int=\count672
-
-Overfull \hbox (30.00003pt too wide) in paragraph at lines 70--70
-[]$[][][][][]$[][][][]  
- []
-
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 43.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+<./figures/schedulability_test.png, id=223, 899.61093pt x 171.64125pt>
+File: ./figures/schedulability_test.png Graphic file (type png)
+<use ./figures/schedulability_test.png>
+Package pdftex.def Info: ./figures/schedulability_test.png  used on input line 
+43.
+(pdftex.def)             Requested size: 390.6649pt x 74.53761pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 43.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 70.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[7
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 78.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[8
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 88.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[9
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 93.
-(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
-
-Overfull \vbox (15.31702pt too high) has occurred while \output is active []
-
-
-Overfull \hbox (2.11804pt too wide) has occurred while \output is active
-[][] 
- []
-
-[10
-
-]
-File: ./figures/background.png Graphic file (type png)
-<use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 99.
+Package pdftex.def Info: ./figures/background.png  used on input line 43.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2213,10 +2257,10 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [11
 
-]
+ <./figures/anote.png>]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 106.
+Package pdftex.def Info: ./figures/background.png  used on input line 43.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2228,19 +2272,11 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [12
 
-]
-\openout2 = `./content_Tutorat1/Aufgabe1.aux'.
 
- (./content_Tutorat1/Aufgabe1.tex
-pdfTeX warning (ext4): destination with the same identifier (name{Outline0.1}) 
-has been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.9 \section{Task 1}
-                    
+ <./figures/schedulability_test.png (PNG copy)>]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 9.
+Package pdftex.def Info: ./figures/background.png  used on input line 43.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2254,28 +2290,35 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 
 ]
-<./figures/anote.png, id=226, 210.24pt x 216.81pt>
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 30.
+Package pdftex.def Info: ./figures/anote.png  used on input line 131.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 30.
+Package pdftex.def Info: ./figures/anote.png  used on input line 131.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-<./figures/schedulability_test.png, id=244, 899.61093pt x 171.64125pt>
-File: ./figures/schedulability_test.png Graphic file (type png)
-<use ./figures/schedulability_test.png>
-Package pdftex.def Info: ./figures/schedulability_test.png  used on input line 
-30.
-(pdftex.def)             Requested size: 390.6649pt x 74.53761pt.
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 30.
+Package pdftex.def Info: ./figures/anote.png  used on input line 131.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 131.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+<./figures/1_sol_empty.png, id=341, 891.33pt x 542.77782pt>
+File: ./figures/1_sol_empty.png Graphic file (type png)
+<use ./figures/1_sol_empty.png>
+Package pdftex.def Info: ./figures/1_sol_empty.png  used on input line 131.
+(pdftex.def)             Requested size: 252.30441pt x 153.64644pt.
+<./figures/1_sol.png, id=342, 891.33pt x 542.77782pt>
+File: ./figures/1_sol.png Graphic file (type png)
+<use ./figures/1_sol.png>
+Package pdftex.def Info: ./figures/1_sol.png  used on input line 131.
+(pdftex.def)             Requested size: 252.30441pt x 153.64644pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 30.
+Package pdftex.def Info: ./figures/background.png  used on input line 131.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2287,10 +2330,10 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [14
 
- <./figures/anote.png>]
+]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 30.
+Package pdftex.def Info: ./figures/background.png  used on input line 131.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2303,23 +2346,10 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [15
 
 
- <./figures/schedulability_test.png (PNG copy)>]
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 47.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 47.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-<./figures/1_sol.png, id=306, 891.33pt x 542.77782pt>
-File: ./figures/1_sol.png Graphic file (type png)
-<use ./figures/1_sol.png>
-Package pdftex.def Info: ./figures/1_sol.png  used on input line 47.
-(pdftex.def)             Requested size: 252.30441pt x 153.64644pt.
+]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 47.
+Package pdftex.def Info: ./figures/background.png  used on input line 131.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2331,10 +2361,11 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [16
 
+
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 47.
+Package pdftex.def Info: ./figures/background.png  used on input line 131.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2345,6 +2376,22 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  []
 
 [17
+
+
+ <./figures/1_sol_empty.png>]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 131.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[18
 
 
  <./figures/1_sol.png (PNG copy)>])
@@ -2363,15 +2410,74 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[18
+[19
 
 
 
 
 ]
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 141.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 141.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 141.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 141.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 141.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 141.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+<./figures/2_algorithm.png, id=476, 498.36188pt x 344.03531pt>
+File: ./figures/2_algorithm.png Graphic file (type png)
+<use ./figures/2_algorithm.png>
+Package pdftex.def Info: ./figures/2_algorithm.png  used on input line 141.
+(pdftex.def)             Requested size: 185.47083pt x 128.0374pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 141.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 141.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 141.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 141.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+<./figures/2_sol_empty.png, id=525, 648.17157pt x 157.33781pt>
+File: ./figures/2_sol_empty.png Graphic file (type png)
+<use ./figures/2_sol_empty.png>
+Package pdftex.def Info: ./figures/2_sol_empty.png  used on input line 141.
+(pdftex.def)             Requested size: 390.6649pt x 94.83073pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 141.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+<./figures/2_sol.png, id=538, 648.17157pt x 157.33781pt>
+File: ./figures/2_sol.png Graphic file (type png)
+<use ./figures/2_sol.png>
+Package pdftex.def Info: ./figures/2_sol.png  used on input line 141.
+(pdftex.def)             Requested size: 390.6649pt x 94.83073pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 17.
+Package pdftex.def Info: ./figures/background.png  used on input line 141.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2381,9 +2487,153 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[19
+[20
 
-])
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 141.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[21
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 141.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[22
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 141.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[23
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 141.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[24
+
+
+ <./figures/2_algorithm.png (PNG copy)>]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 141.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[25
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 141.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[26
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 141.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[27
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 141.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[28
+
+
+ <./figures/2_sol_empty.png>]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 141.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[29
+
+
+ <./figures/2_sol.png (PNG copy)>])
 \openout2 = `./content_Tutorat1/Aufgabe3.aux'.
 
  (./content_Tutorat1/Aufgabe3.tex
@@ -2399,12 +2649,170 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[20
+[30
 
 
 
 
 ]
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 25.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+<figures/periodic_tasks_3.1.PNG, id=681, 140.02313pt x 96.36pt>
+File: figures/periodic_tasks_3.1.PNG Graphic file (type png)
+<use figures/periodic_tasks_3.1.PNG>
+Package pdftex.def Info: figures/periodic_tasks_3.1.PNG  used on input line 25.
+
+(pdftex.def)             Requested size: 112.01865pt x 77.08807pt.
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 25.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[31
+
+ <./figures/periodic_tasks_3.1.PNG>]
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 44.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 44.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+<./figures/lupe.png, id=733, 177.13235pt x 223.8953pt>
+File: ./figures/lupe.png Graphic file (type png)
+<use ./figures/lupe.png>
+Package pdftex.def Info: ./figures/lupe.png  used on input line 44.
+(pdftex.def)             Requested size: 6.75163pt x 8.53581pt.
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 44.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[32
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 44.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[33
+
+
+ <./figures/lupe.png>]
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 54.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 54.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 54.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[34
+
+]
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 64.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 64.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[35
+
+]
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 71.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 71.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[36
+
+])
+\openout2 = `./content_Tutorat1/Appendix.aux'.
+
+ (./content_Tutorat1/Appendix.tex
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 10.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[37
+
+
+
+
+]
+<./figures/overview_real_time_scheduling.png, id=857, 532.23843pt x 171.64125pt
+>
+File: ./figures/overview_real_time_scheduling.png Graphic file (type png)
+<use ./figures/overview_real_time_scheduling.png>
+Package pdftex.def Info: ./figures/overview_real_time_scheduling.png  used on i
+nput line 17.
+(pdftex.def)             Requested size: 390.6649pt x 125.98848pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
 Package pdftex.def Info: ./figures/background.png  used on input line 17.
@@ -2417,15 +2825,16 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[21
+[38
 
-])
-\openout2 = `./content_Tutorat1/Bonus.aux'.
+ <./figures/overview_real_time_scheduling.png>]
+Overfull \hbox (30.00003pt too wide) in paragraph at lines 31--31
+[]$[][][][][]$[][][][]  
+ []
 
- (./content_Tutorat1/Bonus.tex)
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 149.
+Package pdftex.def Info: ./figures/background.png  used on input line 31.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2435,7 +2844,100 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[22
+[39
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 39.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[40
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 49.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[41
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 54.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[42
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 60.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[43
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 67.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[44
+
+])
+\openout2 = `./content_Tutorat1/Bonus.aux'.
+
+ (./content_Tutorat1/Bonus.tex)
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 70.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[45
 
 
 
@@ -2445,7 +2947,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 153.
+Package pdftex.def Info: ./figures/background.png  used on input line 74.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2455,7 +2957,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[23
+[46
 
  </opt/texlive/texdir/texmf-dist/tex/latex/beamer/beamericonarticle.pdf>]
 \tf@nav=\write9
@@ -2470,39 +2972,41 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 (./Tutorat4a.aux (./content_Tutorat1/Aufgabe1.aux)
 (./content_Tutorat1/Aufgabe2.aux) (./content_Tutorat1/Aufgabe3.aux)
-(./content_Tutorat1/Bonus.aux))
+(./content_Tutorat1/Appendix.aux) (./content_Tutorat1/Bonus.aux))
 Package rerunfilecheck Info: File `Tutorat4a.out' has not changed.
-(rerunfilecheck)             Checksum: 7C6946F2CCC8DECE39E07C467ADB38EF;737.
+(rerunfilecheck)             Checksum: E07F77D56B4E1E23AE4DCB7631384D6F;803.
 Package logreq Info: Writing requests to 'Tutorat4a.run.xml'.
 \openout1 = `Tutorat4a.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 51710 strings out of 474971
- 1126692 string characters out of 5778125
- 2100345 words of memory out of 5000000
- 72201 multiletter control sequences out of 15000+600000
- 483925 words of font info for 102 fonts, out of 8000000 for 9000
+ 54423 strings out of 474971
+ 1184750 string characters out of 5778125
+ 2165108 words of memory out of 5000000
+ 74834 multiletter control sequences out of 15000+600000
+ 484744 words of font info for 108 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  133i,17n,125p,1006b,2091s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/te
-xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/texlive/
-texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></opt/texlive/texdi
-r/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></opt/texlive/texdir/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></opt/texlive/texdir/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmss8.pfb></opt/texlive/texdir/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmssi10.pfb></opt/texlive/texdir/texmf-dist/fonts/t
-ype1/public/amsfonts/cm/cmssi8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmssi9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmsy8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/
-cm/cmtt10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/symbo
-ls/msam10.pfb>
-Output written on Tutorat4a.pdf (23 pages, 877014 bytes).
+xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></opt/texlive/
+texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></opt/texlive/texdir
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></opt/texlive/texdir/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></opt/texlive/texdir/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmss17.pfb></opt/texlive/texdir/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmss8.pfb></opt/texlive/texdir/texmf-dist/fonts/typ
+e1/public/amsfonts/cm/cmssi10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmssi8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public
+/amsfonts/cm/cmssi9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmsy10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmsy7.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cms
+y8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pf
+b></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pf
+b>
+Output written on Tutorat4a.pdf (46 pages, 1423869 bytes).
 PDF statistics:
- 488 PDF objects out of 1000 (max. 8388607)
- 370 compressed objects within 4 object streams
- 54 named destinations out of 1000 (max. 500000)
- 30565 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 1076 PDF objects out of 1200 (max. 8388607)
+ 795 compressed objects within 8 object streams
+ 104 named destinations out of 1000 (max. 500000)
+ 33387 words of extra memory for PDF output out of 35830 (max. 10000000)
 
