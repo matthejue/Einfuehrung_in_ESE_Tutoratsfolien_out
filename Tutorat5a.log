@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.1)  10 JAN 2023 10:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.1)  19 JAN 2023 23:28
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -2813,106 +2813,118 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  <./figures/task2.png (PNG copy)>]
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 252.
+Package pdftex.def Info: ./figures/anote.png  used on input line 405.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/b/it' undefined
-(Font)              using `OT1/cmss/b/n' instead on input line 252.
+(Font)              using `OT1/cmss/b/n' instead on input line 405.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/n' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 252.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 405.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
 
 LaTeX Font Info:    Font shape `OT1/cmss/b/it' in size <10.95> not available
-(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 252.
+(Font)              Font shape `OT1/cmss/bx/n' tried instead on input line 405.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
 
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 252.
+Package pdftex.def Info: ./figures/anote.png  used on input line 405.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 252.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
-
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 252.
+Package pdftex.def Info: ./figures/anote.png  used on input line 405.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 252.
+Package pdftex.def Info: ./figures/anote.png  used on input line 405.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
 
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
 
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 252.
+Package pdftex.def Info: ./figures/anote.png  used on input line 405.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 252.
+Package pdftex.def Info: ./figures/anote.png  used on input line 405.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 405.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 
 LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 252.
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
+
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 405.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 405.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 405.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 405.
 
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 252.
+Package pdftex.def Info: ./figures/background.png  used on input line 405.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2927,7 +2939,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 252.
+Package pdftex.def Info: ./figures/background.png  used on input line 405.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2943,7 +2955,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 252.
+Package pdftex.def Info: ./figures/background.png  used on input line 405.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2959,7 +2971,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 252.
+Package pdftex.def Info: ./figures/background.png  used on input line 405.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2975,7 +2987,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 252.
+Package pdftex.def Info: ./figures/background.png  used on input line 405.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -2991,7 +3003,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 252.
+Package pdftex.def Info: ./figures/background.png  used on input line 405.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3007,7 +3019,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 252.
+Package pdftex.def Info: ./figures/background.png  used on input line 405.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3021,13 +3033,9 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 
 ]
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 341.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 341.
+Package pdftex.def Info: ./figures/background.png  used on input line 405.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3039,175 +3047,11 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [39
 
+
 ]
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-
-LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
-(Font)              using `OT1/cmss/b/it' instead on input line 810.
-
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-File: ./figures/anote.png Graphic file (type png)
-<use ./figures/anote.png>
-Package pdftex.def Info: ./figures/anote.png  used on input line 810.
-(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 405.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3219,10 +3063,11 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [40
 
+
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 405.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3236,9 +3081,13 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 
 ]
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 494.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 494.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3250,11 +3099,175 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [42
 
-
 ]
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+
+LaTeX Font Warning: Font shape `OT1/cmss/bx/it' undefined
+(Font)              using `OT1/cmss/b/it' instead on input line 964.
+
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
+File: ./figures/anote.png Graphic file (type png)
+<use ./figures/anote.png>
+Package pdftex.def Info: ./figures/anote.png  used on input line 964.
+(pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3266,11 +3279,10 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 
 [43
 
-
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3286,7 +3298,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3302,7 +3314,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3318,7 +3330,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3334,7 +3346,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3350,7 +3362,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3366,7 +3378,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3382,7 +3394,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3398,7 +3410,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3414,7 +3426,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3430,7 +3442,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3446,7 +3458,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3462,7 +3474,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 ]
 File: ./figures/background.png Graphic file (type png)
 <use ./figures/background.png>
-Package pdftex.def Info: ./figures/background.png  used on input line 810.
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
 (pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
 
 Overfull \vbox (15.31702pt too high) has occurred while \output is active []
@@ -3473,6 +3485,54 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
  []
 
 [56
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[57
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[58
+
+
+]
+File: ./figures/background.png Graphic file (type png)
+<use ./figures/background.png>
+Package pdftex.def Info: ./figures/background.png  used on input line 964.
+(pdftex.def)             Requested size: 42.67789pt x 256.05855pt.
+
+Overfull \vbox (15.31702pt too high) has occurred while \output is active []
+
+
+Overfull \hbox (2.11804pt too wide) has occurred while \output is active
+[][] 
+ []
+
+[59
 
 
 ])
@@ -3491,7 +3551,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[57
+[60
 
 
 
@@ -3501,7 +3561,7 @@ File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
 Package pdftex.def Info: ./figures/anote.png  used on input line 42.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-<./figures/task3.png, id=1305, 164.86594pt x 140.77594pt>
+<./figures/task3.png, id=1367, 164.86594pt x 140.77594pt>
 File: ./figures/task3.png Graphic file (type png)
 <use ./figures/task3.png>
 Package pdftex.def Info: ./figures/task3.png  used on input line 42.
@@ -3530,7 +3590,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[58
+[61
 
  <./figures/task3.png (PNG copy)>]
 File: ./figures/background.png Graphic file (type png)
@@ -3545,7 +3605,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[59
+[62
 
 
 ]
@@ -3561,7 +3621,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[60
+[63
 
 
 ]
@@ -3569,7 +3629,7 @@ File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
 Package pdftex.def Info: ./figures/anote.png  used on input line 52.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-<./figures/task3_2_1.png, id=1377, 584.1825pt x 197.23688pt>
+<./figures/task3_2_1.png, id=1439, 584.1825pt x 197.23688pt>
 File: ./figures/task3_2_1.png Graphic file (type png)
 <use ./figures/task3_2_1.png>
 Package pdftex.def Info: ./figures/task3_2_1.png  used on input line 52.
@@ -3578,7 +3638,7 @@ File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
 Package pdftex.def Info: ./figures/anote.png  used on input line 52.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-<./figures/task3_2_2.png, id=1390, 578.16pt x 181.42781pt>
+<./figures/task3_2_2.png, id=1452, 578.16pt x 181.42781pt>
 File: ./figures/task3_2_2.png Graphic file (type png)
 <use ./figures/task3_2_2.png>
 Package pdftex.def Info: ./figures/task3_2_2.png  used on input line 52.
@@ -3595,7 +3655,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[61
+[64
 
  <./figures/task3_2_1.png (PNG copy)>]
 File: ./figures/background.png Graphic file (type png)
@@ -3610,7 +3670,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[62
+[65
 
 
  <./figures/task3_2_2.png (PNG copy)>]
@@ -3622,7 +3682,7 @@ File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
 Package pdftex.def Info: ./figures/anote.png  used on input line 75.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-<./figures/3_overview_1.png, id=1450, 812.28468pt x 493.0922pt>
+<./figures/3_overview_1.png, id=1512, 812.28468pt x 493.0922pt>
 File: ./figures/3_overview_1.png Graphic file (type png)
 <use ./figures/3_overview_1.png>
 Package pdftex.def Info: ./figures/3_overview_1.png  used on input line 75.
@@ -3639,7 +3699,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[63
+[66
 
 ]
 File: ./figures/background.png Graphic file (type png)
@@ -3654,7 +3714,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[64
+[67
 
 
 ]
@@ -3670,7 +3730,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[65
+[68
 
 
  <./figures/3_overview_1.png>]
@@ -3678,7 +3738,7 @@ File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
 Package pdftex.def Info: ./figures/anote.png  used on input line 102.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-<./figures/task3_3.png, id=1485, 587.19376pt x 171.64125pt>
+<./figures/task3_3.png, id=1548, 587.19376pt x 171.64125pt>
 File: ./figures/task3_3.png Graphic file (type png)
 <use ./figures/task3_3.png>
 Package pdftex.def Info: ./figures/task3_3.png  used on input line 102.
@@ -3691,7 +3751,7 @@ File: ./figures/anote.png Graphic file (type png)
 <use ./figures/anote.png>
 Package pdftex.def Info: ./figures/anote.png  used on input line 102.
 (pdftex.def)             Requested size: 8.27663pt x 8.53581pt.
-<./figures/3_overview_2.png, id=1517, 1170.3725pt x 679.53876pt>
+<./figures/3_overview_2.png, id=1579, 1170.3725pt x 679.53876pt>
 File: ./figures/3_overview_2.png Graphic file (type png)
 <use ./figures/3_overview_2.png>
 Package pdftex.def Info: ./figures/3_overview_2.png  used on input line 102.
@@ -3708,7 +3768,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[66
+[69
 
  <./figures/task3_3.png (PNG copy)>]
 File: ./figures/background.png Graphic file (type png)
@@ -3723,7 +3783,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[67
+[70
 
 
 ]
@@ -3739,7 +3799,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[68
+[71
 
 
 ]
@@ -3755,7 +3815,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[69
+[72
 
 
  <./figures/3_overview_2.png>])
@@ -3778,7 +3838,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[70
+[73
 
 
 
@@ -3807,7 +3867,7 @@ Overfull \hbox (2.11804pt too wide) has occurred while \output is active
 [][] 
  []
 
-[71
+[74
 
 ]
 \tf@nav=\write9
@@ -3832,13 +3892,13 @@ Package logreq Info: Writing requests to 'Tutorat5a.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 63813 strings out of 476093
- 1519894 string characters out of 5793588
- 2680265 words of memory out of 5000000
- 82864 multiletter control sequences out of 15000+600000
+ 63843 strings out of 476093
+ 1520341 string characters out of 5793588
+ 2684240 words of memory out of 5000000
+ 82888 multiletter control sequences out of 15000+600000
  528899 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 133i,18n,125p,1006b,2392s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 133i,18n,125p,1006b,2390s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></o
 pt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></opt/te
 xlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></opt/texlive/
@@ -3852,15 +3912,16 @@ lic/amsfonts/cm/cmss9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/am
 sfonts/cm/cmssi10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfon
 ts/cm/cmssi8.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm
 /cmssi9.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy
-10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
-></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></opt
-/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></opt/texl
-ive/texdir/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></opt/texl
-ive/texdir/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
-Output written on Tutorat5a.pdf (71 pages, 1461123 bytes).
+10.pfb></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb
+></opt/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></opt
+/texlive/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></opt/texli
+ve/texdir/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></opt/texlive/te
+xdir/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></opt/texlive/te
+xdir/texmf-dist/fonts/type1/public/amsfonts/symbols/msam7.pfb>
+Output written on Tutorat5a.pdf (74 pages, 1480457 bytes).
 PDF statistics:
- 1704 PDF objects out of 1728 (max. 8388607)
- 1187 compressed objects within 12 object streams
- 149 named destinations out of 1000 (max. 500000)
- 45814 words of extra memory for PDF output out of 51595 (max. 10000000)
+ 1773 PDF objects out of 2073 (max. 8388607)
+ 1235 compressed objects within 13 object streams
+ 155 named destinations out of 1000 (max. 500000)
+ 45904 words of extra memory for PDF output out of 51595 (max. 10000000)
 
