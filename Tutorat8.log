@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.1)  31 JAN 2023 00:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.1)  31 JAN 2023 10:28
 entering extended mode
  \write18 enabled.
  %&-line parsing enabled.
@@ -3052,7 +3052,7 @@ Package logreq Info: Writing requests to 'Tutorat8.run.xml'.
 Here is how much of TeX's memory you used:
  63679 strings out of 476093
  1509700 string characters out of 5793588
- 2621277 words of memory out of 5000000
+ 2621279 words of memory out of 5000000
  82825 multiletter control sequences out of 15000+600000
  539892 words of font info for 160 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
